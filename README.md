@@ -14,7 +14,7 @@
 
 
 ## 🛠️ Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh)](https://github.com/pravesh-razor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-razor)](https://github.com/pravesh-razor)
 
 ### Languages
 
