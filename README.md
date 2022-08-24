@@ -19,9 +19,9 @@
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-323330?style=for-the-badge&logo=dart&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-28B6F6?style=for-the-badge&logo=PHP&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node-28B6F6?style=for-the-badge&logo=Node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node-323330?style=for-the-badge&logo=Node.js&logoColor=F7DF1E)
 
 
 
