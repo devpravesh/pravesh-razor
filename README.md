@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Pravesh Vishwakarma, a **Mobile App Developer**.
+🎓 I am Pravesh Vishwakarma, a **Software Developer**.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills.
 
@@ -21,6 +21,8 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-28B6F6?style=for-the-badge&logo=PHP&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node-28B6F6?style=for-the-badge&logo=Node.js&logoColor=white)
+
 
 
 ### Front-End Development
