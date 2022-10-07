@@ -23,6 +23,10 @@
 ![PHP](https://img.shields.io/badge/PHP-28B6F6?style=for-the-badge&logo=PHP&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node-323330?style=for-the-badge&logo=Node.js&logoColor=F7DF1E)
 
+### Server Side Frameworks
+![ExpressJs](https://img.shields.io/badge/expressJS-323330?style=for-the-badge&logo=express&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Laravel-9e8fff?style=for-the-badge&logo=laravel&logoColor=000000)
+
 
 
 ### Front-End Development
