@@ -16,6 +16,11 @@
 ## 🛠️ Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-razor&show_icons=true&theme=radical)](https://github.com/pravesh-razor)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=Desidime-Project&theme=radical)](https://github.com/pravesh-razor/pravesh-razor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=Assignment-App&theme=radical)](https://github.com/pravesh-razor/pravesh-razor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=MovieFlix&theme=radical)](https://github.com/pravesh-razor/pravesh-razor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=news_app_bloc&theme=radical)](https://github.com/pravesh-razor/pravesh-razor)
+
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
