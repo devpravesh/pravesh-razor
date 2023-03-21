@@ -4,6 +4,7 @@
 
 -->
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+[<p align="left"><img src = "https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" width="30%"></p>](https://github.com/pravesh-razor)
 [![Pravesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravesh-razor&show_icons=true)](https://github.com/pravesh-razor/github-readme-stats)
 
 ## 🚀 About Me
@@ -20,7 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=Assignment-App)](https://github.com/pravesh-razor/pravesh-razor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=MovieFlix)](https://github.com/pravesh-razor/pravesh-razor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=news_app_bloc)](https://github.com/pravesh-razor/pravesh-razor)
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravesh-razor" alt="pravesh-razor" /></a> </p>
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -61,6 +62,7 @@
 ![Flutterflow](https://img.shields.io/badge/Flutterflow-000000?style=for-the-badge&logo=Flutterflow&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ## 🖥️ Workspace Setup
 
