@@ -4,8 +4,8 @@
 
 -->
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
-[<p align="left"><img src = "https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" width="30%"></p>](https://github.com/pravesh-razor)
-[![Pravesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravesh-razor&show_icons=true)](https://github.com/pravesh-razor/github-readme-stats)
+[<p class="row" align="left"><img src = "https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb" width="34.5%"> <img src = "https://github-readme-stats.vercel.app/api?username=pravesh-razor&show_icons=true"></p>](https://github.com/pravesh-razor)
+<!-- [![Pravesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravesh-razor&show_icons=true)](https://github.com/pravesh-razor/github-readme-stats) -->
 
 ## 🚀 About Me
 
