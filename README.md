@@ -21,7 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=Assignment-App)](https://github.com/pravesh-razor/pravesh-razor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=MovieFlix)](https://github.com/pravesh-razor/pravesh-razor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pravesh-razor&repo=news_app_bloc)](https://github.com/pravesh-razor/pravesh-razor)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravesh-razor" alt="pravesh-razor" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pravesh-razor" alt="pravesh-razor" /></a> </p> -->
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
